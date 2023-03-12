@@ -1,4 +1,4 @@
-<script>
+
   
     // Player name
     var player1 = "Player 1";
@@ -40,4 +40,3 @@
             }
         }, 2500);
     }
-</script>
